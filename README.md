@@ -218,3 +218,6 @@ If you find bugs, create an issue.
 # screenshots
 ![WhatsApp Image 2025-11-29 at 12 20 40_2f4ae1eb](https://github.com/user-attachments/assets/80989cb7-b333-4837-9346-8e49893491d9)
 
+![WhatsApp Image 2025-11-29 at 12 20 45_790e7671](https://github.com/user-attachments/assets/6cabe312-ef7e-4e05-a299-01d3679c7d9c)
+
+
