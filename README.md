@@ -1,4 +1,4 @@
-# 🩺 MediMind – AI-Powered Medical Report Analyzer
+![WhatsApp Image 2025-11-29 at 12 20 40_2f4ae1eb](https://github.com/user-attachments/assets/80989cb7-b333-4837-9346-8e49893491d9)# 🩺 MediMind – AI-Powered Medical Report Analyzer
 ✨ Agentic AI | OCR | Medical Understanding | Multilingual | Medication | Billing | Visualization
 
 MediMind is an Agentic AI healthcare assistant that analyzes medical reports, prescriptions, scanned documents, and hospital bills — and explains them in simple, patient-friendly language.
@@ -181,13 +181,21 @@ Download PDF report.
 # 📁 Project Structure
 MediMind/
 │── static/
+
 │── templates/
+
 │   └── index.html
+
 │── fonts/
+
 │   └── (Noto Sans fonts for Indic languages)
+
 │── app.py
+
 │── requirements.txt
+
 │── README.md
+
 │── .env
 
 # 🧪 Future Enhancements
